@@ -1,5 +1,9 @@
 # Lijing-Zhou-New-path-planning-algorithm-based-on-VFH
 Lijing-Zhou/New-path-planning-algorithm-based-on-VFH
+
+
+
+这是我2018年在底特律大学做的在Gazebo环境下用Matlab语言编写的基于VFH的改进动态路径规划算法。
 This is my bachelor project of University of Detroit Mercy(2018)
 //
 //
