@@ -1,6 +1,10 @@
 # Lijing-Zhou-New-path-planning-algorithm-based-on-VFH
 Lijing-Zhou/New-path-planning-algorithm-based-on-VFH
-This is my bachloar project of 
+This is my bachelor project of University of Detroit Mercy(2018)
+//
+//
+
+                           
 
 
 Nowadays, the increasing numbers of mobile robots have
